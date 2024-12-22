@@ -1,5 +1,5 @@
 streamlit
-opencv-python==4.7
+opencv-python
 numpy==1.26.4
 imutils
 tensorflow==2.10.1
