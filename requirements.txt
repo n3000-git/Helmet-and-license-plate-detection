@@ -1,6 +1,7 @@
 streamlit
-opencv-python-headless
+opencv-python
+numpy
 imutils
-logging
+tensorflow==2.10.1
 pytesseract
-tempfile
+Pillow
