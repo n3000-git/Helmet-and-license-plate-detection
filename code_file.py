@@ -203,7 +203,7 @@ def process_video(input_path):
         # Write and display frame
         writer.write(img)
         img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
-        frame_placeholder.image(img_rgb, channels="RGB", use_container_width=True)
+        frame_placeholder.image(img_rgb, channels="RGB")
 
 st.title("A.I. On the Road")
 uploaded_file = st.file_uploader("Choose a video...", type=["mp4", "avi", "mov"])
