@@ -2,6 +2,6 @@ streamlit
 opencv-python
 numpy==1.26.4
 imutils
-tensorflow
+tensorflow==2.10.1
 pytesseract
 Pillow
