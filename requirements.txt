@@ -1,0 +1,6 @@
+streamlit
+opencv-python-headless
+imutils
+logging
+pytesseract
+tempfile
